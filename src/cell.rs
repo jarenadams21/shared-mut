@@ -9,6 +9,29 @@ struct HumanCell {
 
 }
 
+struct NerveTissue {
+
+}
+
+struct ConnectiveTissue {
+
+}
+
+struct MuscleTissue {
+
+}
+
+// Protein, act as boosters that apply side effects in the extracellular matrix
+// as well as muscle tissue
+struct Protein {
+    
+}
+
+struct ExtracellularMatrix {
+    proteins: [example: collagen surrounded by extracellular fluids],
+    cells:
+}
+
 // Act as boosters that apply side effects to the search in different ways based on sys arch.
 struct Electrolyte {
 
@@ -23,8 +46,8 @@ struct BodyComposition {
     phosphorus: Element,
 }
 
-// Intermediate state that transfers from human states in the frontend 
-// to system health states, side effects, and more to enhance search.
+// Intermediate state that transfers from human cell states in the system
+// to system-wide health states, side effects, and more to enhance search for a user.
 struct HumanToSystemHealthIntermediate {
     body_water_to_convert_to_system_health: Unknown,
     body_composition: BodyComposition,
