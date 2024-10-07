@@ -1,5 +1,38 @@
+/** NEEDS Hash and Peer sequences/cycles */
+
 /**
 
+Describes a latent byte encoded b-tree intended for mapping into q space
+*/
+struct ByteEncodedBTree {
+
+}
+
+struct ByteEncodedBNode {
+
+}
+
+struct ByteEncodedBLeaf {
+
+}
+
+/**
+
+Describes a partial intermediate byte encoded b-tree intended for mapping into q space
+*/
+struct BytePartialEncodedBToQTree {
+
+}
+
+struct BytePartialEncodedBToQNode {
+
+}
+
+struct BytePartialEncodedBToQLeaf {
+
+}
+
+/**
 Describes a custom byte encoded b-tree intended for q space
 */
 struct ByteEncodedQBTree {
@@ -18,6 +51,13 @@ struct ByteEncodedQBLeaf {
  Holds data blocks containing information from classical web
 */
 struct ClassicalWebDataSourceBlock {
+
+}
+
+/**
+ Holds data blocks containing information relevant for the system before transforming into a q source block
+*/
+struct PartialSystemDataSourceBlock {
 
 }
 
