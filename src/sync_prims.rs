@@ -4,6 +4,11 @@ struct SyncPrimitive {
 }
 
 // Looking for truths in random probably needed
-function delete_jira() {
+function search_random_latent() {
+    
+}
+
+// Looking for truths in random probably needed
+function search_random_active() {
     
 }

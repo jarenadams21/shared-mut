@@ -31,3 +31,6 @@ ongoing rust research for grant search and retrieval from deep states
   6. Chronus
   7. Pharell
 */
+
+### Targets
+* Stable Diffusion
