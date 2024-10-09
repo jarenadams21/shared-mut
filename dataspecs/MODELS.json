@@ -1,5 +1,8 @@
 
 {
     "artifactId": "NaN",
-    "description": "1. First object of inspiration is `NaN` from Javascript. It's weird"
+    "description": "1. First object of inspiration is `NaN` from Javascript. It's weird",
+    "artifactId2": "Mutex",
+    "description2": "Channel lock"
+
 }
