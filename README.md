@@ -33,4 +33,14 @@ ongoing rust research for grant search and retrieval from deep states
 */
 
 ### Targets
-* Stable Diffusion
+* Stable Network Diffusion
+* Wide knowldege graphs = https://link.springer.com/article/10.1007/s13042-020-01259-4#:~:text=Many%20existing%20knowledge%20graphs%20embedding%20models%20focus%20on
+
+
+Git Fundamentals:
+1. FileSystemDatabase
+2. RSync
+3. Repository site to peer connection channels
+
+#### Misc
+1. Stellar Dynamics and Celestial Mechanics

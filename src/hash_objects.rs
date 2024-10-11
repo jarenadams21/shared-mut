@@ -1,7 +1,6 @@
 /** NEEDS Hash and Peer sequences/cycles */
 
 /**
-
 Describes a latent byte encoded b-tree intended for mapping into q space
 */
 struct ByteEncodedBTree {
